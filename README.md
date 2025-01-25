@@ -3,13 +3,21 @@ LAC3204 is a course offered by NUS, called Chinese for Business & Social Science
 
 ## Extracted content
 The text file content will look like this:
+
 Sentence containing Idiom
+
 Definition of Idiom
+
 Empty Line
+
 Sentence containing Idiom
+
 Definition of Idiom
+
 .
+
 .
+
 .
 
 ## How to run the code
