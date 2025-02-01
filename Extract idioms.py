@@ -22,7 +22,7 @@ def extract_text_from_pdf(file_path):
         matches = list(re.finditer(r"\b\d+\b", text))
         
         if len(matches) >= 2:  # Ensure there are at least two numbers
-            second_number_pos = matches[0].start()  # Get the start position of the second number
+            second_number_pos = matches[1].start()  # Get the start position of the second number
             text = text[second_number_pos:]  # Slice the text from the second number onwards
         return text
     
