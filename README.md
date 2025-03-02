@@ -25,6 +25,7 @@ I assume that you have something that you can use to edit the Python file.
 1. Change the filepath stated in the python file to the filepath of the file that you want to extract from
 2. State the filepath where you want to save the text file to 
 3. Run the Python file
+4. Check the contents in the text file because occasionally there are missing or additional empty lines between the sentence and definition
 
 ## Word of caution
 1. The code works for my semester but it might not work for yours, if the lecturer change the style of the pdf
