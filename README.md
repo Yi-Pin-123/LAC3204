@@ -1,5 +1,7 @@
 # LAC3204
-LAC3204 is a course offered by NUS, called Chinese for Business & Social Sciences. There are some idioms taught in class and apparently they will be tested. The pdf of the collated list of idioms taught in each lesson will be uploaded after the lesson. However, it might be abit troublesome for one to create flashcards using the pdf，so I wrote this python script to make the process easier. The Python script `Extract idioms.py` is designed to extract the text, then create and insert the text into a text file in your folder.
+LAC3204 is a course offered by NUS, called Chinese for Business & Social Sciences. There are some idioms taught in class and they will be tested. The pdf of the collated list of idioms taught in each lesson will be uploaded after the lesson. However, it might be abit troublesome for one to create flashcards using the pdf，so I wrote this python script to make the process easier. The Python script `Extract idioms.py` is designed to extract the text, then create and insert the text into a text file in your folder.
+
+I have already extracted all the sentences and definitions from the pdf and place them in this [Quizlet Folder](https://quizlet.com/user/do_well_for_Alevel/folders/lac3204?i=1x1jo7&x=1xqt) for your convenience. But you can use the Python file for your extraction if that is what you prefer. 
 
 ## Extracted content
 The text file content will look like this:
